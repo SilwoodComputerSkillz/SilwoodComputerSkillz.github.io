@@ -2,17 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Silwood Computer Skillz Workshop</title>
-    <description>This blog contains backups of the Biweekly Silwood Computer Skillz workshops</description>
-    <link>http://TGuillermeBlog.github.io</link>
-    <atom:link href="http://TGuillermeBlog.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <description>We are now backing up everything!</description>
+    <link>http://silwoodcomputerskillz.github.io</link>
+    <atom:link href="http://silwoodcomputerskillz.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Hello world</title>
-        <description>&lt;p&gt;bla.&lt;/p&gt;
+        <title>Jupyter</title>
+        <description>&lt;p&gt;On the 3rd of March, Samraat made a nice and easy demo of how to use Jupyter and integrate it into collaborative workflows.&lt;/p&gt;
+
+&lt;p&gt;Check Jupyter &lt;a href=&quot;http://jupyter.org/&quot;&gt;here&lt;/a&gt; and check Samraat’s example &lt;a href=&quot;https://github.com/SilwoodComputerSkillz/SilwoodComputerSkillz.github.io/blob/master/_posts/2017-03-16-Samraat.ipynb&quot;&gt;here&lt;/a&gt; (running smoothly on GitHub!).&lt;/p&gt;
 </description>
-        <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://TGuillermeBlog.github.io/helloworld/</link>
-        <guid isPermaLink="true">http://TGuillermeBlog.github.io/helloworld/</guid>
+        <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+        <link>http://silwoodcomputerskillz.github.io/Samraat/</link>
+        <guid isPermaLink="true">http://silwoodcomputerskillz.github.io/Samraat/</guid>
       </item>
     
   </channel>

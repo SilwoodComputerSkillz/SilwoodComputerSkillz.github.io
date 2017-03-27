@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://tguillermeblog.github.io/helloworld/</loc>
-<lastmod>2017-03-20T00:00:00+00:00</lastmod>
+<loc>http://silwoodcomputerskillz.github.io/Samraat/</loc>
+<lastmod>2017-03-16T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://tguillermeblog.github.io/404/</loc>
+<loc>http://silwoodcomputerskillz.github.io/404/</loc>
 </url>
 <url>
-<loc>http://tguillermeblog.github.io/about/</loc>
+<loc>http://silwoodcomputerskillz.github.io/about/</loc>
 </url>
 <url>
-<loc>http://tguillermeblog.github.io/</loc>
+<loc>http://silwoodcomputerskillz.github.io/</loc>
+</url>
+<url>
+<loc>http://silwoodcomputerskillz.github.io/schedule/</loc>
 </url>
 </urlset>

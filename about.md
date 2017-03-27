@@ -8,7 +8,8 @@ This blog contains material from Silwood Computer Skillz workshops
 
 ### Contact
 
-If you have any suggestion or question you can directly email [me](mailto:guillert@tcd.ie).
+If you want to suggest a topic for next session or send me your notes from a previous session, drop me and [email](mailto:guillert@tcd.ie)!
 
 ### Contributors
 * [Thomas Guillerme](http://tguillerme.github.io)
+* [Samraat Pawar]()
