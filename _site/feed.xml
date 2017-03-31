@@ -7,8 +7,20 @@
     <atom:link href="http://silwoodcomputerskillz.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Open Tree of Life</title>
+        <description>&lt;p&gt;On the 30th of March, &lt;a href=&quot;https://github.com/dgkontopoulos&quot;&gt;Dimitris&lt;/a&gt; showed us how to use the Open Tree of Life in a R pipeline.
+Great stuff for phylo analysis (especially for getting backbones or constraints)!&lt;/p&gt;
+
+&lt;p&gt;Check the Open Tree of Life project &lt;a href=&quot;https://tree.opentreeoflife.org/&quot;&gt;here&lt;/a&gt; and check Dimitris’ example &lt;a href=&quot;https://github.com/SilwoodComputerSkillz/SilwoodComputerSkillz.github.io/blob/master/_posts/OTL-Dimitris.ipynb&quot;&gt;here&lt;/a&gt; (running smoothly on GitHub!).&lt;/p&gt;
+</description>
+        <pubDate>Thu, 30 Mar 2017 00:00:00 +0100</pubDate>
+        <link>http://silwoodcomputerskillz.github.io/Dimitris/</link>
+        <guid isPermaLink="true">http://silwoodcomputerskillz.github.io/Dimitris/</guid>
+      </item>
+    
+      <item>
         <title>Jupyter</title>
-        <description>&lt;p&gt;On the 3rd of March, Samraat made a nice and easy demo of how to use Jupyter and integrate it into collaborative workflows.&lt;/p&gt;
+        <description>&lt;p&gt;On the 16th of March session, &lt;a href=&quot;http://www.imperial.ac.uk/people/s.pawar&quot;&gt;Samraat&lt;/a&gt; made a nice and easy demo of how to use Jupyter and integrate it into collaborative workflows.&lt;/p&gt;
 
 &lt;p&gt;Check Jupyter &lt;a href=&quot;http://jupyter.org/&quot;&gt;here&lt;/a&gt; and check Samraat’s example &lt;a href=&quot;https://github.com/SilwoodComputerSkillz/SilwoodComputerSkillz.github.io/blob/master/_posts/Jupyter-Samraat.ipynb&quot;&gt;here&lt;/a&gt; (running smoothly on GitHub!).&lt;/p&gt;
 </description>
