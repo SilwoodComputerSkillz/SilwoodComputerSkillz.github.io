@@ -2,13 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Silwood Computer Skillz Workshop</title>
-    <description>Every two weeks on Tuesday in the Boardroom from 17:00 (Bring your own booze!)</description>
+    <description>Every two weeks on Thursday in the Boardroom from 17:00 (Bring your own booze!)</description>
     <link>http://silwoodcomputerskillz.github.io</link>
     <atom:link href="http://silwoodcomputerskillz.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>GIS pipelines</title>
         <description>&lt;p&gt;On the 20th of April session, &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#106;&amp;#097;&amp;#099;&amp;#107;&amp;#046;&amp;#104;&amp;#097;&amp;#116;&amp;#102;&amp;#105;&amp;#101;&amp;#108;&amp;#100;&amp;#049;&amp;#050;&amp;#064;&amp;#105;&amp;#109;&amp;#112;&amp;#101;&amp;#114;&amp;#105;&amp;#097;&amp;#108;&amp;#046;&amp;#097;&amp;#099;&amp;#046;&amp;#117;&amp;#107;&quot;&gt;Jack&lt;/a&gt; showed us how how to create easy analysis pipelines for both ArcGIS and GIS in R.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://desktop.arcgis.com/en/arcmap/10.3/analyze/modelbuilder/what-is-modelbuilder.htm&quot;&gt;ModelBuilder&lt;/a&gt; in ArcGIS is an efficient way to queue processes as well as iterating over objects and files. Models can be saved in a toolbox and used again later or applied to new data. They can also be converted into ArcPy scripts.&lt;/p&gt;
+
+&lt;p&gt;QGIS has graphical modeller which is extremely similar.&lt;/p&gt;
+
+&lt;p&gt;GIS processes can also be carried out in R. See &lt;a href=&quot;https://github.com/SilwoodComputerSkillz/SilwoodComputerSkillz.github.io/blob/master/scripts/RGISrains-Jack.R&quot;&gt;this script&lt;/a&gt; for an example.&lt;/p&gt;
 </description>
         <pubDate>Thu, 20 Apr 2017 00:00:00 +0100</pubDate>
         <link>http://silwoodcomputerskillz.github.io/Jack/</link>
