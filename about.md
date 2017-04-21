@@ -12,4 +12,7 @@ If you want to suggest a topic for next session or send me your notes from a pre
 
 ### Contributors
 * [Thomas Guillerme](http://tguillerme.github.io)
-* [Samraat Pawar]()
+* [Alberto Pascual Garcia]()
+* [Samraat Pawar](http://www.imperial.ac.uk/people/s.pawar)
+* [Dimitris Kontopoulos](https://github.com/dgkontopoulos)
+* [Jack Hatfield]()
