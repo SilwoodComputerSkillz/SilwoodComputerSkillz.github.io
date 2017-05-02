@@ -8,9 +8,9 @@ permalink: /schedule/
 
 | When          | Who                 | What                   |
 |:--------------|:-------------------:|:-----------------------|
-| 2017/05/04   -- |   _TBC_   -- | [Alberto Pascual Garcia]()   |
+| 2017/05/04   -- |   Grace   -- | [Alberto Pascual Garcia](mailto:alberto.pascual.garcia@gmail.com)   |
 | 2017/05/18   -- |   Markdown and everything   -- | [Thomas Guillerme](http://tguillerme.github.io/)   |
-| 2017/06/01   -- |   _TBC_   -- | [Natalie Cooper]() *guest speaker*   |
+| 2017/06/01   -- |   _TBC_   -- | [Natalie Cooper](http://nhcooper123.github.io/) *seminar speaker*   |
 
 
 ## Who did what and when?
