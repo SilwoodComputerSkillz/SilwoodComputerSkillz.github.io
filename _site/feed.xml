@@ -7,6 +7,23 @@
     <atom:link href="http://silwoodcomputerskillz.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Markdown</title>
+        <description>&lt;p&gt;On the 18th of May session, I (&lt;a href=&quot;http://tguillerme.github.io/&quot;&gt;Thomas&lt;/a&gt;) showed how markdown is the answer to everything if you want to write down things.&lt;/p&gt;
+
+&lt;p&gt;Markdown is a really easy to use language.
+You can find details on it’s syntax on over here: &lt;a href=&quot;http://daringfireball.net/projects/markdown/dingus&quot;&gt;Daring Fireball Dingus&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;One of the major advantage though is that you can use it as a portable writing format and convert it into any kind of language using &lt;a href=&quot;http://pandoc.org/&quot;&gt;pandoc&lt;/a&gt;.
+Check out this &lt;a href=&quot;https://peerj.com/articles/cs-112/&quot;&gt;PeerJ paper&lt;/a&gt; for more details.&lt;/p&gt;
+
+&lt;p&gt;Finally you can also use Markdown for your normal coding via &lt;a href=&quot;https://yihui.name/knitr/&quot;&gt;knitr&lt;/a&gt; in &lt;code class=&quot;highlighter-rouge&quot;&gt;R&lt;/code&gt; or Rstudio…&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 May 2017 00:00:00 +0100</pubDate>
+        <link>http://silwoodcomputerskillz.github.io/Markdown/</link>
+        <guid isPermaLink="true">http://silwoodcomputerskillz.github.io/Markdown/</guid>
+      </item>
+    
+      <item>
         <title>GIS pipelines</title>
         <description>&lt;p&gt;On the 20th of April session, &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#106;&amp;#097;&amp;#099;&amp;#107;&amp;#046;&amp;#104;&amp;#097;&amp;#116;&amp;#102;&amp;#105;&amp;#101;&amp;#108;&amp;#100;&amp;#049;&amp;#050;&amp;#064;&amp;#105;&amp;#109;&amp;#112;&amp;#101;&amp;#114;&amp;#105;&amp;#097;&amp;#108;&amp;#046;&amp;#097;&amp;#099;&amp;#046;&amp;#117;&amp;#107;&quot;&gt;Jack&lt;/a&gt; showed us how how to create easy analysis pipelines for both ArcGIS and GIS in R.&lt;/p&gt;
 
