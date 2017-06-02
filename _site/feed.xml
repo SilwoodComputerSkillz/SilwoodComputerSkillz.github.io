@@ -7,6 +7,20 @@
     <atom:link href="http://silwoodcomputerskillz.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>R notebooks</title>
+        <description>&lt;p&gt;On the 1st of June session, &lt;a href=&quot;http://nhcooper123.github.io/&quot;&gt;Natalie&lt;/a&gt; showed how to use &lt;code class=&quot;highlighter-rouge&quot;&gt;R markdown&lt;/code&gt; to use &lt;code class=&quot;highlighter-rouge&quot;&gt;R studio&lt;/code&gt; like a pro!&lt;/p&gt;
+
+&lt;p&gt;This was a nice follow up to &lt;a href=&quot;https://silwoodcomputerskillz.github.io/Markdown/&quot;&gt;last session on Markdown&lt;/a&gt;.
+In fact, Natalie showed us how to use markdown in R studio in order to write a complete notebook using &lt;a href=&quot;http://rmarkdown.rstudio.com/r_notebooks.html&quot;&gt;R notebooks&lt;/a&gt;.
+You can see her &lt;a href=&quot;https://rawgit.com/nhcooper123/macro-methods-module/master/MacroModule/_book/index.html&quot;&gt;cool entire module&lt;/a&gt; written all in markdown as a book (with chapters and everything).
+For more details, have a look at &lt;a href=&quot;https://github.com/nhcooper123/macro-methods-module&quot;&gt;her repository&lt;/a&gt; that has all the nuts and bolts (don’t hesitate to clone/modify!).&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Jun 2017 00:00:00 +0100</pubDate>
+        <link>http://silwoodcomputerskillz.github.io/Rnotebooks/</link>
+        <guid isPermaLink="true">http://silwoodcomputerskillz.github.io/Rnotebooks/</guid>
+      </item>
+    
+      <item>
         <title>Markdown</title>
         <description>&lt;p&gt;On the 18th of May session, I (&lt;a href=&quot;http://tguillerme.github.io/&quot;&gt;Thomas&lt;/a&gt;) showed how markdown is the answer to everything if you want to write down things.&lt;/p&gt;
 
