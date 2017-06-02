@@ -8,7 +8,7 @@ permalink: /schedule/
 
 | When          | What                 | Who                   |
 |:--------------|:-------------------:|:-----------------------|
-| 2017/06/15   -- |      -- | We need a volunteer!  |
+| 2017/06/15   -- | Field data wrangling in R | Jack Hatfield  |
 | 2017/06/29   -- |      -- | We need a volunteer!  |
 
 
