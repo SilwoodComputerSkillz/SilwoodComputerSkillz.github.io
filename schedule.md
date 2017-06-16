@@ -8,8 +8,9 @@ permalink: /schedule/
 
 | When          | What                 | Who                   |
 |:--------------|:-------------------:|:-----------------------|
-| 2017/06/15   -- | Field data wrangling in R | Jack Hatfield  |
-| 2017/06/29   -- |      -- | We need a volunteer!  |
+| 2017/06/29   -- |  Pro LaTeX tips -- | Marco  |
+| 2017/07/13   -- |   Inkscape -- | Richard  |
+| 2017/07/27   -- |    -- | We need a volunteer!  |
 
 
 
@@ -17,6 +18,7 @@ permalink: /schedule/
 
 | When          | What                 | Who                   |
 |:--------------|:-------------------:|:-----------------------|
+| 2017/06/15   -- |   Data Wrangling in R   -- | [Jack Hatfield](mailto:jack.hatfield12@imperial.ac.uk)   |
 | 2017/06/01   -- |   R notebooks   -- | [Natalie Cooper](http://nhcooper123.github.io/) *seminar speaker*   |
 | 2017/05/18   -- |   Markdown  -- | [Thomas Guillerme](http://tguillerme.github.io/)   |
 | 2017/05/04   -- |   Grace   -- | [Alberto Pascual Garcia](mailto:alberto.pascual.garcia@gmail.com)   |
