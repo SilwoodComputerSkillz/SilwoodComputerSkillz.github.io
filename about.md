@@ -16,3 +16,5 @@ If you want to suggest a topic for next session or send me your notes from a pre
 * [Samraat Pawar](http://www.imperial.ac.uk/people/s.pawar)
 * [Dimitris Kontopoulos](https://github.com/dgkontopoulos)
 * [Jack Hatfield]()
+* [Marco Castiello]()
+* [Richard Dearden]()
