@@ -8,15 +8,15 @@ permalink: /schedule/
 
 | When          | What                 | Who                   |
 |:--------------|:-------------------:|:-----------------------|
-| 2017/07/27   -- |    Making R packages -- | Thomas  |
 | 2017/08/10   -- |    Random forests -- | Matt  |
-
+| 2017/08/24   -- |    -- | We need a volunteer!  |
 
 
 ## Who did what and when?
 
 | When          | What                 | Who                   |
 |:--------------|:-------------------:|:-----------------------|
+| 2017/07/27   -- |    Making R packages -- | [Thomas Guillerme](http://tguillerme.github.io/)  |
 | 2017/07/13   -- |   Inkscape   -- | [Richard Dearden](mailto:r.dearden14@imperial.ac.uk)   |
 | 2017/06/29   -- |   LaTeX   -- | [Marco Castiello](mailto:m.castiello13@imperial.ac.uk)   |
 | 2017/06/15   -- |   Data Wrangling in R   -- | [Jack Hatfield](mailto:jack.hatfield12@imperial.ac.uk)   |
